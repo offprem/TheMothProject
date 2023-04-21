@@ -6,3 +6,7 @@
 .search.ng-untouched.ng-pristine.ng-valid.ng-star-inserted {
     visibility:hidden;
 }
+
+.event-price.ng-star-inserted {
+    display:none;
+}
