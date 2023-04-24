@@ -6,6 +6,6 @@
     display:none;
 }
 
-span.event__venue.ng-star-inserted {
+.event__venue.ng-star-inserted {
     margin-left: -15.5px;
 }
