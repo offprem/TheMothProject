@@ -9,3 +9,7 @@
 .event__venue.ng-star-inserted {
     margin-left: -15.5px;
 }
+
+.event-price.ng-star-inserted {
+    display:none;
+}
